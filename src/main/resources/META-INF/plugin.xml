@@ -1,0 +1,22 @@
+<idea-plugin>
+    <id>ae.ayeaye.jetbrains.plugin.as.smiles</id>
+    <name>Plugi display name here</name>
+    <vendor email="support@yourcmpany.com" url="http://www.yourcmpany.com">YourCopany</vendor>
+
+    <description><![CDATA[
+    Enter short description for you1r plugin here.<br>
+    <em>mos HTML tags may be used</em>
+    ]]></description>
+
+
+    <!-- http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html -->
+    <depends>com.intellij.modules.androidstudio</depends>
+
+    <actions>
+        <action id="ExecuteThoseGuys"
+                class="ae.ayeaye.jetbrains.plugin.as.smiles.ExecuteThoseGuysAction"
+                text="Remove feedback smiles from status bar"
+                description="Says hello"
+        />
+    </actions>
+</idea-plugin>
