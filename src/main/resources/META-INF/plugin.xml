@@ -1,13 +1,11 @@
 <idea-plugin>
     <id>ae.ayeaye.jetbrains.plugin.as.smiles</id>
-    <name>Plugi display name here</name>
-    <vendor email="support@yourcmpany.com" url="http://www.yourcmpany.com">YourCopany</vendor>
+    <name>Feedback icons remover</name>
+    <vendor email="vigilancer@gmail.com" url="https://ayeaye.ae">ayeaye!</vendor>
 
     <description><![CDATA[
-    Enter short description for you1r plugin here.<br>
-    <em>mos HTML tags may be used</em>
+    Plugin for Android Studio that removes bright yellow distracting feedback emojis from status bar
     ]]></description>
-
 
     <!-- http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html -->
     <depends>com.intellij.modules.androidstudio</depends>
@@ -16,7 +14,7 @@
         <action id="ExecuteThoseGuys"
                 class="ae.ayeaye.jetbrains.plugin.as.smiles.ExecuteThoseGuysAction"
                 text="Remove feedback smiles from status bar"
-                description="Says hello"
+                description="Remove feedback smiles from status bar"
         />
     </actions>
 </idea-plugin>
