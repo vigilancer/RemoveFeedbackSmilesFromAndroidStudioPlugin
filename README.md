@@ -15,7 +15,7 @@
 
 1. Don't use openjdk 11.
 Install [JB SDK Bintray Downloader](https://intellij-support.jetbrains.com/hc/en-us/articles/206544879),
-download latest 1.8 JDK and set if for plugin project. This will automatically setup suitable jdk
+download latest 1.8 JDK and set it for plugin project. This will automatically setup suitable jdk
  to test plugin in sandboxed Android Studio. Otherwise you will have all kind of issues.
 
 2. Don't trust documentation about plugin development. Despite misleading official tutorials,
