@@ -19,7 +19,7 @@ download latest 1.8 JDK and set it for plugin project. This will automatically s
  to test plugin in sandboxed Android Studio. Otherwise you will have all kind of issues.
 
 2. Don't trust documentation about plugin development. Despite misleading official tutorials,
-classes should be placed inside packages, don't place them on top level (`/main/java/some.java`).
+classes should be placed inside packages, don't place them on top level (wrong: `/main/java/some.java`).
 
 3. When developing plugin for Android Studio it would be better to use for development IntelliJ IDEA version
 that matches version latest Android Studio is based on (or version you testing locally).
