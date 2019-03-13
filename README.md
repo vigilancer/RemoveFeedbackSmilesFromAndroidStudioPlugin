@@ -1,7 +1,7 @@
 
 #### What is this
 
-[[ here would be gif ]]
+![alt text](https://raw.githubusercontent.com/vigilancer/RemoveFeedbackSmilesFromAndroidStudioPlugin/master/images/android-studio-smiles.gif)
 
 
 #### How to use
@@ -24,4 +24,3 @@ classes should be placed inside packages, don't place them on top level (`/main/
 3. When developing plugin for Android Studio it would be better to use for development IntelliJ IDEA version
 that matches version latest Android Studio is based on (or version you testing locally).
 [Choose yours](https://www.jetbrains.com/intellij-repository/releases).
-
