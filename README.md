@@ -7,6 +7,11 @@
 ![alt text](https://raw.githubusercontent.com/vigilancer/RemoveFeedbackSmilesFromAndroidStudioPlugin/master/images/android-studio-smiles.gif)
 
 
+#### How to install
+
+1. Download [latest release](https://github.com/vigilancer/RemoveFeedbackSmilesFromAndroidStudioPlugin/releases).
+2. In Android Studio choose Plugins -> Install plugin from disk...
+
 
 #### How to use
 
