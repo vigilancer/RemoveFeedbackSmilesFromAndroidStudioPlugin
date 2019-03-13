@@ -1,7 +1,10 @@
 
-#### What is this
+#### Why do you need this
 
 ![alt text](https://raw.githubusercontent.com/vigilancer/RemoveFeedbackSmilesFromAndroidStudioPlugin/master/images/android-studio-smiles.gif)
+
+
+[Related issue](https://issuetracker.google.com/issues/122883564)
 
 
 #### How to use
